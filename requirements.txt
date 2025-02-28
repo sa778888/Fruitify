@@ -1,0 +1,14 @@
+flask
+flask-cors
+tensorflow
+torch
+ultralytics
+numpy
+pillow
+opencv-python
+h5py
+scikit-learn
+matplotlib
+requests
+gunicorn
+python-dotenv
