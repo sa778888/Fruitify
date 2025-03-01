@@ -2,6 +2,8 @@
 
 Fruitify.AI is an AI-powered system that assesses fruit freshness using both hardware and software components. The project combines sensor-based data collection with deep learning models to provide real-time fruit classification and freshness detection.
 
+![Fruitify.AI Banner](path/to/banner-image.png)
+
 ## Features
 ### Hardware Component
 - **Methane Gas Sensor & Moisture Sensor:** Detects gas emissions and moisture levels to determine fruit freshness.
